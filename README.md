@@ -79,15 +79,19 @@ Sau khi chạy thành công, truy cập ứng dụng tại địa chỉ được
 *(Vui lòng chèn 5 hình ảnh demo của hệ thống vào bên dưới)*
 
  1. Dashboard tổng quan
+![Uploading Dashboard tổng quan.png…]()
 
 2. Quản lý người dùng
+<img width="1918" height="942" alt="Quản lý người dùng" src="https://github.com/user-attachments/assets/e8cc4a25-45f5-457f-b05a-f6b5057fc54a" />
 
 3. Quy trình sản phẩm
-
+<img width="1919" height="945" alt="Quản lý sản phẩm" src="https://github.com/user-attachments/assets/179dc12f-20e6-4abc-9f84-bd61a70904a9" />
 
 4. Quản lý danh mục
+<img width="1919" height="950" alt="Quản lý danh mục" src="https://github.com/user-attachments/assets/c19334ff-c451-428f-b45f-8167faf95bd6" />
 
 5. Quản lý đơn hàng
+<img width="1915" height="944" alt="Quản lý đơn hàng" src="https://github.com/user-attachments/assets/beeebf7a-dd54-49a4-9e40-2e749193a12f" />
 
 
 

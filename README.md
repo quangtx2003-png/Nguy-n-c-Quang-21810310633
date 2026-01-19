@@ -76,10 +76,9 @@ Sau khi chạy thành công, truy cập ứng dụng tại địa chỉ được
 Để test đầy đủ chức năng, khi đăng ký một tài khoản người dùng mới, để tạo tài khoản admin đầu tiên hãy vào bảng cơ sở dữ liệu để phân lại role admin cho tài khoản đó. Lần sau có thể dùng tài khoản admin đó để phân lại role cho tài khoản khác.
 
 ## 5 hình ảnh demo
-*(Vui lòng chèn 5 hình ảnh demo của hệ thống vào bên dưới)*
 
  1. Dashboard tổng quan
-![Uploading Dashboard tổng quan.png…]()
+<img width="1919" height="944" alt="Dashboard tổng quan" src="https://github.com/user-attachments/assets/5c386b6c-a929-4bbd-9d62-8b07394a66f5" />
 
 2. Quản lý người dùng
 <img width="1918" height="942" alt="Quản lý người dùng" src="https://github.com/user-attachments/assets/e8cc4a25-45f5-457f-b05a-f6b5057fc54a" />
